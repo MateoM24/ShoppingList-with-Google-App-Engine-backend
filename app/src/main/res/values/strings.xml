@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="button_main_to_SList">Shopping List</string>
+    <string name="button_main_to_PList">List of products</string>
+    <string name="title_activity_product_list">ProductListActivity</string>
+    <string name="button_return">Return to main menu</string>
+    <string name="button_options">Options</string>
+    <string name="font_size">Font size</string>
+    <string name="size_prefs">size_prefs</string>
+    <string name="font_color">Font color</string>
+    <string name="options">Options</string>
+    <string name="value">Value</string>
+    <string name="add_item">Add a product</string>
+    <string name="no_data">please add products to buy</string>
+    <string name="edit_selected">Edit product</string>
+    <string name="delete_selected">Remove product</string>
+    <string name="add_to_list_title">Write down a new product</string>
+    <string name="add_to_list">Add to my list</string>
+    <string name="added">is added!</string>
+    <string name="please_add_something">It\'s time to put some products here!\n What are you planing to buy?</string>
+    <string name="want_to_remove">Are you sure you want to remove this product from your shopping list?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="removed">Product removed</string>
+    <string name="removed_all">The list will be removed.\nDo you really want it?</string>
+    <string name="remove_list_button">Remove all products</string>
+    <string name="edit_product">Edit product</string>
+    <string name="ok">Ok</string>
+    <string name="accept_button">Change</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="products_to_buy">Products to buy</string>
+    <string name="go_to_done_list">Marked done products</string>
+    <string name="marked_bought">Purchased products list</string>
+    <string name="back_to_shopping_list">Products to buy list</string>
+    <string name="mark_not_bought">Didn\'t buy this one yet!</string>
+    <string name="bought">Mark already purchased!</string>
+    <string name="select_item">No item selected</string>
+    <string name="language">Language en/pl</string>
+    <string name="notBought">Mart not purchased yet!</string>
+    <string name="backToAct1">Go back to shopping list!</string>
+    <string name="save">Save changes</string>
+    <string name="edit">Edit selected</string>
+
+    <string-array name="font_sizes">
+        <item>20</item>
+        <item>10</item>
+        <item>14</item>
+        <item>18</item>
+        <item>22</item>
+        <item>26</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="font_colors">
+        <item>black</item>
+        <item>red</item>
+        <item>blue</item>
+    </string-array>
+
+</resources>

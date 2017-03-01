@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:layout_marginLeft="@dimen/activity_button_left_right"
+    android:layout_marginRight="@dimen/activity_button_left_right"
+    android:layout_marginTop="@dimen/activity_button_top_bottom"
+    android:layout_marginBottom="@dimen/activity_button_top_bottom"
+    android:padding="@dimen/padding_button"
+    android:id="@+id/layout"
+    android:background="@color/colorBackground"
+    android:layout_width="match_parent">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ButtonToShoppigList"
+        android:background="@color/colorPrimaryDark"
+        android:layout_marginBottom="40dp"
+        android:text="@string/button_main_to_SList"
+        android:textSize="@dimen/text_size"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonToOptions"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/button_options"
+        android:textSize="@dimen/text_size"
+        />
+
+</LinearLayout>

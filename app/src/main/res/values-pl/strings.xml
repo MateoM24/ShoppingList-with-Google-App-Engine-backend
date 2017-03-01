@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Podręczna Lista Zakupów</string>
+    <string name="button_main_to_SList">Lista zakupów List</string>
+    <string name="button_main_to_PList">Lista produktów</string>
+    <string name="title_activity_product_list">ProductListActivity</string>
+    <string name="button_return">Powrót do ekranu głównego</string>
+    <string name="button_options">Opcje</string>
+    <string name="font_size">Rozmiar czcionki</string>
+    <string name="size_prefs">size_prefs</string>
+    <string name="font_color">Kolor czcionki</string>
+    <string name="options">Opcje</string>
+    <string name="value">Wartość</string>
+    <string name="add_item">Dodaj produkt</string>
+    <string name="no_data">Dodaj produkty</string>
+    <string name="edit_selected">Edytuj produkt</string>
+    <string name="delete_selected">Usuń produkt</string>
+    <string name="add_to_list_title">Dopisz nowy produkt</string>
+    <string name="add_to_list">Dodaj do mojej listy</string>
+    <string name="added">Dodano!</string>
+    <string name="please_add_something">Czas dodaj produkty do listy.\nCo planujesz kupić?</string>
+    <string name="want_to_remove">Czy na pewno chcesz usunąć ten produkt z listy zakupów?</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="removed">Produkt usunięty</string>
+    <string name="removed_all">Lista zostanie usunięta\nCzy na pewno tego chcesz?</string>
+    <string name="remove_list_button">Usuń wszystkie produkty</string>
+    <string name="edit_product">Edytuj produkt</string>
+    <string name="ok">Ok</string>
+    <string name="accept_button">Zmień</string>
+    <string name="cancel_button">Anuluj</string>
+    <string name="products_to_buy">Produkty do kupienia</string>
+    <string name="go_to_done_list">Produkty już kupione</string>
+    <string name="marked_bought">Lista zakupionych rzeczy</string>
+    <string name="back_to_shopping_list">Lista rzeczy do kupienia</string>
+    <string name="mark_not_bought">Jednak jeszcze tego nie mam!</string>
+    <string name="bought">Oznacz jako kupione!</string>
+    <string name="select_item">Nic nie jest zaznaczone</string>
+    <string name="language">Język ang/pol</string>
+    <string name="notBought">Oznacz jako niekupione!</string>
+    <string name="backToAct1">Do listy z zakupami!</string>
+    <string name="save">Zapisz zmiany</string>
+    <string name="edit">Edytuj zaznaczone</string>
+
+    <string-array name="font_sizes">
+        <item>20</item>
+        <item>10</item>
+        <item>14</item>
+        <item>18</item>
+        <item>22</item>
+        <item>26</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="font_colors">
+        <item>black</item>
+        <item>red</item>
+        <item>blue</item>
+    </string-array>
+
+</resources>
